@@ -1,0 +1,7 @@
+<h1>add</h1>
+<form method="GET" action="./api">
+    ID<br><input name="id"/><br>
+    ID<br><input name="age"/><br>
+    ID<br><input name="name"/><br>
+    <button type="submit">submit</button>
+</form>
